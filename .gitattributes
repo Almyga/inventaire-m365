@@ -1,0 +1,2 @@
+# No line-ending conversion: the published SHA-256 must match the downloaded file
+*.ps1 -text
